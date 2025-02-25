@@ -1,0 +1,32 @@
+[
+    {
+        "title": "My Universe ",
+        "author": "Gaana",
+        "year": 2025,
+        "status": "available"
+    },
+    {
+        "title": "Harry Potter",
+        "author": "Rowling",
+        "year": 2015,
+        "status": "available"
+    },
+    {
+        "title": "Fantastic Beasts",
+        "author": "Rowling",
+        "year": 2022,
+        "status": "available"
+    },
+    {
+        "title": "Doraemon",
+        "author": "Gajana",
+        "year": 2024,
+        "status": "available"
+    },
+    {
+        "title": "lion king",
+        "author": "simba",
+        "year": 2024,
+        "status": "available"
+    }
+]
